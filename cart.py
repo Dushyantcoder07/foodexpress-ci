@@ -1,3 +1,5 @@
+# FoodExpress CI - Poll SCM test
+
 def cart_total(items):
     total = 0
     for item in items:
